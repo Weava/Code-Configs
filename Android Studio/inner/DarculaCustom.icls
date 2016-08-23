@@ -1,0 +1,34 @@
+<scheme name="Weavacula" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c60105" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7b578e" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
